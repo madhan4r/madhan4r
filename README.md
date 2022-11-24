@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan4r&label=Profile%20views&color=0e75b6&style=flat" alt="madhan4r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhan4r" alt="madhan4r" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/madhan4r" target="blank"><img src="https://img.shields.io/twitter/follow/madhan4r?logo=twitter&style=for-the-badge" alt="madhan4r" /></a> </p>
 
-- 🌱 I’m currently learning **Jenkins,**
+- 🌱 I’m currently learning **Jenkins, Machine Learning**
 
 - 💬 Ask me about **vue, python**
 
@@ -18,6 +16,7 @@
 <a href="https://twitter.com/madhan4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhan4r" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/madhan-kumar-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="madhan-kumar-r" height="30" width="40" /></a>
 <a href="https://instagram.com/madhan4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhan4r" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/madhanr4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhanr4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +25,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/madhan4r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/madhan4r" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhan4r&show_icons=true&locale=en" alt="madhan4r" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhan4r&show_icons=true&locale=en&layout=compact" alt="madhan4r" /></p>
