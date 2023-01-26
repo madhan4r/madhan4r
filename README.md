@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **madhan4r@gmail.com**
 
-- 📫 Website - <a href="https://madhan.dev" target="_blank">madhan.dev</a>
+- 📫 Website - <a href="https://madhan.dev" target="blank">madhan.dev</a>
 
 
 <h3 align="left">Connect with me:</h3>
